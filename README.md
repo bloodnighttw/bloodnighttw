@@ -8,6 +8,7 @@
   <h1 align="center">My works👋</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodnighttw&repo=dotfile)](https://github.com/bloodnighttw/dotfile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodnighttw&repo=DCBot-codeChanger)](https://github.com/bloodnighttw/DCBot-codeChanger)
 
 
 - I'm EDM Lover.
