@@ -1,6 +1,6 @@
 ### Hi ,Bloodnighttw,here 👋
 - I'm EDM Lover.
-- Also,I'm Vim Lover.and I use Arch,btw.
+- Also,I'm Vim Lover,and I use Arch,btw.
 ![](My-Desktop.png)
 
 
