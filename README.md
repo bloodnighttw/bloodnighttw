@@ -1,4 +1,8 @@
 ### Hi ,Bloodnighttw,here 👋
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw" />
+
+
 - I'm EDM Lover.
 - Also,I'm Vim Lover,and I use Arch,btw.
 ![](My-Desktop.png)
@@ -8,7 +12,6 @@
 1.  [bloodnighttw/dotfile](https://github.com/bloodnighttw/dotfile)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw" />
 
 
 <!--
