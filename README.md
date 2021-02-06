@@ -1,5 +1,4 @@
-
-<img src="https://github.com/favicon.ico" class="rounded-circle" style="width: 22px;height: 22px;vertical-align: middle;">
+<img src="https://avatars2.githubusercontent.com/u/44264182?s=460&v=4" style="width: 200px;height: 200px" class="rounded-circle">
 <h1 align="center">Hello ,Bloodnighttw is here 👋</h1>
 
 
