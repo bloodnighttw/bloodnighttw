@@ -25,3 +25,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw&hide=javascript,css,html&layout=compact" />
 </p>
 
+[1.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
+[2.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
+[3.1]: https://i.imgur.com/YCdR3o9.png (twitter icon with padding)
