@@ -26,13 +26,3 @@
 </p>
 
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
-<div align="center">
-
-[1.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
-[2.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
-[3.1]: https://i.imgur.com/YCdR3o9.png (twitter icon with padding)
-</div>
