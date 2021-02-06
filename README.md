@@ -1,8 +1,8 @@
 ### Hi ,Bloodnighttw,here 👋
 
-<center>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw&hide=javascript" />
-</center>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw&hide=javascript" />
+</p>
 
 
 - I'm EDM Lover.
