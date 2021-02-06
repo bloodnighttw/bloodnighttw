@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-<img src="https://avatars2.githubusercontent.com/u/44264182?s=460&v=4" style="width: 200px;height: 200px" class="rounded-circle"><br><br>
+<img src="https://avatars2.githubusercontent.com/u/44264182?s=460&v=4" style="width: 200px;height: 200px;border-radius: 50%" >
 <h1 align="center">Hello ,Bloodnighttw is here 👋</h1>
 
 
