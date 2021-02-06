@@ -3,6 +3,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw&hide=javascript,css,html&layout=compact" />
+  <h1> the lang i use</p>
 </p>
 
   <h1 align="center">My works👋</h1>
