@@ -1,4 +1,7 @@
 ### Hi ,Bloodnighttw,here 👋
+- I'm EDM Lover.
+- I use Arch,btw.
+
 
 ### My works
 1.  [bloodnighttw/dotfile](https://github.com/bloodnighttw/dotfile)
