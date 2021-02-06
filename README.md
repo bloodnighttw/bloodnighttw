@@ -5,14 +5,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw&hide=javascript&layout=compact" />
 </p>
 
-- - -
-  <h2 align="center">My works👋</h2>
+  <h1 align="center">My works👋</h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodnighttw&repo=dotfile)](https://github.com/bloodnighttw/dotfile)
 
 
 - I'm EDM Lover.
 - Also,I'm Vim Lover,and I use Arch,btw.
 ![](My-Desktop.png)
-
-
-### My works
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodnighttw&repo=dotfile)](https://github.com/bloodnighttw/dotfile)
