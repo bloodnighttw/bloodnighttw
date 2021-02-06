@@ -1,6 +1,8 @@
 
-
+<img src="https://github.com/favicon.ico" class="rounded-circle" style="width: 22px;height: 22px;vertical-align: middle;">
 <h1 align="center">Hello ,Bloodnighttw is here 👋</h1>
+
+
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; I'm a 18 years old senior high school student.My journey on programing isn't long,in fact,I started learning coding on freshman year of senior high school,but after learning ,I know that this will be the way I will choose. I will keep learing forward,until someday nothing could let me learn.</p>
 
