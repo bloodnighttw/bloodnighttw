@@ -8,6 +8,7 @@
 1.  [bloodnighttw/dotfile](https://github.com/bloodnighttw/dotfile)
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw" />
 
 
 <!--
