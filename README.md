@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="circle-cropped.png" style="width: 50%;height: 50%;">
+  <img src="https://i.imgur.com/C8PnD25.jpg" style="width: 50%;height: 50%;">
 </div>
 
 <h1 align="center">Hello ,Bloodnighttw is here 👋</h1>
