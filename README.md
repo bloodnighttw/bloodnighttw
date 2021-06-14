@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/44264182?v=4" style="width: 50%;height: 50%;">
-</div>
 
 <h1 align="center">Hello ,Bloodnighttw is here 👋</h1>
 
