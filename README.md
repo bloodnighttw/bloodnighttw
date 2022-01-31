@@ -18,6 +18,12 @@
 
 </div>
 
+<div align="center">
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+
+</div>
+
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/bloodnighttw/bloodnighttw/output/github-contribution-grid-snake.svg" />
 </p>
