@@ -1,9 +1,8 @@
 
-<h1 align="center">Hello ,Bloodnighttw is here 👋</h1>
-
-<h1 align="center">Kotlin is the best language I ever meet</h1>
-
-- - -
+<h1 align="center">👋 Hello ,Bloodnighttw is here 👋</h1>
+<p align="center">Learning is fun , and coding is ,too.</p>
+<h3 align="center"> About Me </h3>
+<p align="center"> I am 20 years old student , currently studied in 國立彰化師範大學 (NCUE). My hobby is listening to the music , watching the anime , reading the LN (light novel) , learning and coding. I mainly use java or kotlin to write program to solve my problem happened in my life.  </P>
 
 <div align="center">
 
@@ -29,8 +28,10 @@
   <img align="center" src="https://raw.githubusercontent.com/bloodnighttw/bloodnighttw/output/github-contribution-grid-snake.svg" />
 </p>
 
+<div align="center">
 
  #### Contact Me
 <a href="mailto:bbeenn1227@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/bloodnighttw"><img src="https://img.shields.io/badge/bloodnighttw-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> &nbsp;
 ![Discord](https://img.shields.io/badge/bloodnighttw&sharp;9487-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+</div>
