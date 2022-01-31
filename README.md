@@ -34,14 +34,16 @@
 
 </div>
 
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/bloodnighttw/bloodnighttw/output/github-contribution-grid-snake.svg" />
-</p>
-
 <div align="center">
 
- #### Contact Me
+#### Contact Me
 <a href="mailto:bbeenn1227@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/bloodnighttw"><img src="https://img.shields.io/badge/bloodnighttw-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> &nbsp;
 ![Discord](https://img.shields.io/badge/bloodnighttw&sharp;9487-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </div>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/bloodnighttw/bloodnighttw/output/github-contribution-grid-snake.svg" />
+</p>
+
+
