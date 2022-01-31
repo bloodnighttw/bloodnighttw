@@ -4,7 +4,7 @@
 <h1 align="center">Kotlin is the best language I ever meet</h1>
 - - -
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodnighttw&hide=javascript,css,html&layout=compact" />
+  <img align="center" src="https://raw.githubusercontent.com/bloodnighttw/bloodnighttw/output/github-contribution-grid-snake.svg" />
 </p>
 
 
