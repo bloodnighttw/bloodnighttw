@@ -34,4 +34,4 @@
 <a href="mailto:bbeenn1227@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/bloodnighttw"><img src="https://img.shields.io/badge/bloodnighttw-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> &nbsp;
 
-![Discord](https://img.shields.io/badge/%3CHELLO%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/bloodnighttw-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
