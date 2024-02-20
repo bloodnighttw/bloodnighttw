@@ -1,16 +1,10 @@
 
 <div align="center">
-<h1 align="center">👋 Bloodnighttw👋</h1>
+<h1 align="center">Bloodnighttw</h1>
  
  ```
  Learning is fun , and coding is ,too.
  ```
-</div>
-<h3 align="center"> About Me </h3>
-<p align="center"> I am 20 years old student , currently studied in 國立彰化師範大學 (NCUE). My hobby is listening to the music , watching the anime , reading the LN (light novel) , learning and coding. I mainly use java or kotlin to write program to solve my problem happened in my life.  </P>
-
-<div align="center">
-
  ### The thing  I have learned
   
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
