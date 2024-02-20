@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/bloodnighttw/bloodnighttw/output/github-contribution-grid-snake.svg?palette=github-dark" />
+  <img align="center" src="https://raw.githubusercontent.com/bloodnighttw/bloodnighttw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
 
